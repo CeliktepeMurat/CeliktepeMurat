@@ -5,10 +5,10 @@
 - 📫 **celiktepemurat@gmail.com**
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=CeliktepeMurat&label=Views&color=lightgrey&style=flat-square" alt="mauricio1802" /> 
+<img src="https://komarev.com/ghpvc/?username=CeliktepeMurat&label=Views&color=lightgrey&style=flat-square" alt="CeliktepeMurat" /> 
 </p>
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CeliktepeMurat&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=radical&no-bg=true&no-frame=true&column=4" alt="mauricio1802" /></a> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CeliktepeMurat&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=radical&no-bg=true&no-frame=true&column=6" alt="CeliktepeMurat" /></a> 
 </p>
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -19,5 +19,5 @@
 </a>
 </p>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CeliktepeMurat&theme=omni&hide_border=true" alt="mauricio1802" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CeliktepeMurat&theme=omni&hide_border=true" alt="CeliktepeMurat" />
 </p>
