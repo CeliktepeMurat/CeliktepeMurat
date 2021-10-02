@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=CeliktepeMurat&label=Views&color=lightgrey&style=flat-square" alt="CeliktepeMurat" /> 
 </p>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=CeliktepeMurat&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=radical&no-bg=true&no-frame=true&column=1" alt="CeliktepeMurat" />
+<img src="https://github-profile-trophy.vercel.app/?username=CeliktepeMurat&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=radical&no-bg=true&no-frame=true&column=2" alt="CeliktepeMurat" />
 </p>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=CeliktepeMurat&theme=blue-green&show_icons=true&count_private=true&hide_border=true" />
