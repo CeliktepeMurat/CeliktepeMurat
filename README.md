@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Murat</h1>
 
-- 🔭 I’m currently working at [Nethermind](https://nethermind.io) as Smart Contract Developer
+- 🔭 I’m building stuff on ethereum.
 - 🌱 Interested in **DeFi** and **Smart Contracts Security**
 - 📫 **celiktepemurat@gmail.com**
 
