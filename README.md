@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Murat</h1>
 
-- 🔭 I’m building stuff on ethereum.
-- 🌱 Interested in **DeFi** and **Smart Contracts Security**
+- 🔭 I’m building stuff on Blockchain.
+- 🌱 Interested in **DeFi** and **Web3-Web2 Integration**
 - 📫 **celiktepemurat@gmail.com**
 
 <p align="center">
